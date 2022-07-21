@@ -1,2 +1,2 @@
-# mike-li7.github.io
-My blog
+# My blog
+*this is a test*
